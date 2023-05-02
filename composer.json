@@ -1,5 +1,5 @@
 {
-    "name": "enniel/laravel-vk-notification-channel",
+    "name": "asasem/laravel-vk-notification-channel",
     "type": "library",
     "description": "VK Notification Driver",
     "keywords": [
