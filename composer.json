@@ -19,8 +19,8 @@
     ],
     "require": {
         "php" : ">=5.5.9",
-        "illuminate/notifications": "*",
-        "illuminate/support": "*"
+        "illuminate/notifications": "^8.0",
+        "illuminate/support": "^8.0"
     },
     "require-dev": {
         "atehnix/vk-client": "dev-master",
